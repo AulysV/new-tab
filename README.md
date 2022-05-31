@@ -1,2 +1,2 @@
-# new-tab
-A new tab HTML page test
+# New Tab
+A new tab HTML page test (yes, it's empty)
